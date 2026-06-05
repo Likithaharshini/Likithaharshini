@@ -43,7 +43,6 @@ Passionate about building real-world applications that solve practical problems.
 - VS Code
 - Postman
 - Render
-- EmailJS
 
 ---
 
